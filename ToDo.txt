@@ -1,0 +1,8 @@
+ToDo list for Pin-Sequencer V0.1.0 9SEP2015
+  1.  recode as a Class Library
+  2.  implement a specified MaxActiveSequences, to support multiple inactive sequences with minimal RAM usage
+  3.  allow interval control, currently the minimum interval is One Second, 100ms or even 10ms should be possible
+  4.  change the Index_array to a more compress record structure.
+  5.  Verify array validity with compile time flags
+  6.  Create Example sketches
+ 
